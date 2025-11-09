@@ -45,7 +45,7 @@ The drone is equipped with **3D-printed attachments** for medical payload delive
 
 |                  Prototype Build                 |                Simulation in Gazebo               |
 | :----------------------------------------------: | :-----------------------------------------------: |
-| ![Drone Prototype](media/mediP1.jpg) | ![Gazebo Simulation](media/mediP2.JPG) |
+| ![Drone Prototype](media/mediP1.jpg) | ![Gazebo Simulation](media/mediP2.jpg) |
 
 ---
 
