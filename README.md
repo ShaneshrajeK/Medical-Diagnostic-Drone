@@ -116,7 +116,7 @@ pip install pymavlink dronekit opencv-python numpy
 
 ```
 Medical_Diagnostics_Drone/
-├─ takeoff_waypoints.py        
+├─ script/takeoff_waypoints.py        
 ├─ stl/                        
 ├─ media/                      
 └─ README.md
