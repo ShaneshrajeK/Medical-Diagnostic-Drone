@@ -54,8 +54,7 @@ The drone is equipped with **3D-printed attachments** for medical payload delive
 
 ## 🎥 Demo Video
 
-🔗 [Watch the demo video here](#)
-*(https://drive.google.com/file/d/1jaqClUo8-t0CFSu7gC9PdP8fLDFX1z4D/view?usp=drive_link)*
+🔗 [Watch the demo video here](https://drive.google.com/file/d/1jaqClUo8-t0CFSu7gC9PdP8fLDFX1z4D/view?usp=drive_link)
 
 ---
 
